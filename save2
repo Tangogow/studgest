@@ -1,0 +1,45 @@
+{
+	"title":	"lop",
+	"student":	[{
+			"idS":	1,
+			"first":	"aze",
+			"last":	"aze",
+			"prom":	2010,
+			"class":	"aze",
+			"courses":	[{
+					"idC":	1,
+					"nameC":	"math",
+					"coefC":	2,
+					"marks":	[{
+							"idM":	1,
+							"coefM":	2,
+							"mark":	2
+						}, {
+							"idM":	2,
+							"coefM":	2,
+							"mark":	3
+						}]
+				}]
+		}],
+	"student":	[{
+			"idS":	2,
+			"first":	"aze",
+			"last":	"qsd",
+			"prom":	2020,
+			"class":	"wxc",
+			"courses":	[{
+					"idC":	1,
+					"nameC":	"geo",
+					"coefC":	2,
+					"marks":	[{
+							"idM":	1,
+							"coefM":	4,
+							"mark":	4
+						}, {
+							"idM":	2,
+							"coefM":	4,
+							"mark":	4
+						}]
+				}]
+		}]
+}

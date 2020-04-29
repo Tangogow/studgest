@@ -1,0 +1,52 @@
+{
+  "title": "test",
+	"student":	[{
+		"idS":	1,
+		"first":	"kek",
+		"last":	"lel",
+		"prom":	2021,
+		"class":	"2G",
+		"courses":	[{
+				"idC":	4,
+				"nameC":	"math",
+				"coefC":	2,
+				"marks":	[{
+						"idM":	1,
+						"coefM":	2,
+						"mark":	1
+					}]
+			},
+      {
+				"idC":	3,
+				"nameC":	"geo",
+				"coefC":	3,
+				"marks":	[{
+						"idM":	1,
+						"coefM":	2,
+						"mark":	10
+					},
+          {
+  						"idM":	1,
+  						"coefM":	2,
+  						"mark":	20
+  				}]
+			}]
+	},
+  {
+		"idS":	3,
+		"first":	"aze",
+		"last":	"aze",
+		"prom":	2020,
+		"class":	"aze",
+		"courses":	[{
+				"idC":	1,
+				"nameC":	"phy",
+				"coefC":	5,
+				"marks":	[{
+						"idM":	1,
+						"coefM":	2,
+						"mark":	1
+					}]
+			}]
+	}]
+}
